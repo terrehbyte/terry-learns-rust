@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"name": "1-hello",
+			"path": "1-hello"
+		},
+		{
+			"name": "2-structs",
+			"path": "2-structs"
+		},
+		{
+			"path": "3-display"
+		},
+		{
+			"path": "4-primitives"
+		}
+	],
+	"settings": {}
+}
